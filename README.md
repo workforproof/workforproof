@@ -26,4 +26,4 @@
 
 ---
 
-📬 jason@cnsunrisetech.com
+📬 info@cnsunrisetech.com
