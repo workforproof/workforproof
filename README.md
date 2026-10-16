@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**workforproof/workforproof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
 
-Here are some ideas to get you started:
+- 🔭 B2B外贸从业者 | 牙科耗材 + 食品包装出口
+-  正在系统学习深度学习（D2L）
+- 💡 用AI工具提效：自动化视频生成、智能客户开发
+- 📍 安徽合肥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我的项目
+
+| 项目 | 说明 |
+|------|------|
+| [MoneyPrinterTurbo](https://github.com/Workforproof/MoneyPrinterTurbo) | AI产品短视频自动生成 |
+| [D2L 学习笔记](https://github.com/Workforproof/D2L) | 动手学深度学习课程实践 |
+
+## 技能栈
+
+- **外贸**: B2B客户开发 · 合规文档(PPWR/EUDR) · 供应链协调
+- **编程**: Python · PyTorch · 数据处理
+- **AI应用**: 大语言模型 · 计算机视觉 · 自动化工作流
+
+## 正在学
+
+> "Proof comes from work." — 在实践中验证，在学习中成长。
+
+---
+
+📬 jason@cnsunrisetech.com
